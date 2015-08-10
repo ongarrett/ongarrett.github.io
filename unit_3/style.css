@@ -1,11 +1,12 @@
 h1 {
-	font-size: 250%;
+	font-size: 300%;
 }
 h2 {
 	font-size: 200%;
 }
 p {
 	font-size: 100%;
+	text-transform: capitalize;
 }
 #welcome {
 	color:#242424;
@@ -28,8 +29,8 @@ body {
 	display: inline;	
 }
 #discipline {
-	font-weight: bold;
-	text-transform: uppercase;
+	font-weight: italic;
+	text-transform: capitalize;
 	list-style-type: none;
 	margin: 0;
 	padding: 100px;
