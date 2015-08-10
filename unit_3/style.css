@@ -2,7 +2,7 @@ html{
 	background-color: #2E94C0;
 }
 body {
-	background-image: url(images/student_watching_video.jpg);
+	background-image: url (images/student_watching_video.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
