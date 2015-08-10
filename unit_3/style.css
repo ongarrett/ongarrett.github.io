@@ -9,11 +9,10 @@ body {
 }
  ul {
  	list-style-type: none;
- 	margin: 20;
- 	padding: 20;
+ 	margin: 100 px;
+ 	padding: ;
 } 
 a {
-	display: block;
 	color: #f3526c;
 	font-weight: bold;
 	text-transform: uppercase;
