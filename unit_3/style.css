@@ -6,14 +6,15 @@ body {
 }
  ul {
  	list-style-type: none;
- 	margin: 0;
- 	padding: 0;
+ 	margin: 20;
+ 	padding: 20;
 } 
 a {
 	display: block;
 	width: 500 px;
+	color: #f3526c;
 	font-weight: bold;
-	background-color: #2E94C0
+	background-color: #2E94C0;
 	text-transform: uppercase;
 	text-align: left;
 }
