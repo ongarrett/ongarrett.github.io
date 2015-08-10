@@ -8,10 +8,12 @@ p {
 	font-size: 100%;
 }
 #welcome {
+	background-color: #F5EF6B;
 	color:#242424;
 	display: center;
 	font-family: Tahoma;
 	text-transform: capitalize;
+
 }
 body {
 	background-image: url(images/student_watching_video.jpg);
