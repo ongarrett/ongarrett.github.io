@@ -1,3 +1,6 @@
+html{
+	background-color: #2E94C0;
+}
 body {
 	background-image: url(images/student_watching_video.jpg);
 	background-size:contain;
@@ -11,10 +14,8 @@ body {
 } 
 a {
 	display: block;
-	width: 500 px;
 	color: #f3526c;
 	font-weight: bold;
-	background-color: #2E94C0;
 	text-transform: uppercase;
 	text-align: left;
 }
