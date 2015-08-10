@@ -1,5 +1,3 @@
-html { 
-  background: url(images/student_watching_video.jpg) 
-  no-repeat center center fixed; 
-  background-size: cover;
+body { 
+  background-image: url(images/student_watching_video.jpg)
 }
