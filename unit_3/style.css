@@ -4,17 +4,10 @@ h1 {
 h2 {
 	font-size: 200%;
 }
-p {
+p { 
 	font-size: 100%;
 }
-#welcome {
-	background-color: #F5EF6B;
-	color:#242424;
-	display: center;
-	font-family: Tahoma;
-	text-transform: capitalize;
 
-}
 body {
 	background-image: url(images/student_watching_video.jpg);
 	background-repeat: no-repeat;
@@ -30,8 +23,17 @@ body {
 	padding: 100px;
 	display: inline;	
 }
+
+#welcome {
+	background-color: #F5EF6B;
+	color:#242424;
+	display: center;
+	font-family: Tahoma;
+	text-transform: capitalize;
+}
+
 #discipline {
-	font-weight: italic;
+	font-weight: normal;
 	text-transform: capitalize;
 	list-style-type: none;
 	margin: 0;
@@ -43,5 +45,5 @@ body {
     color:#242424;
     clear:both;
     text-align:center;
-    padding:100px;
+    padding:1000px;
 }
