@@ -1,7 +1,7 @@
 h1 {
 	font-size: 250%;
 }
-h1 {
+h2 {
 	font-size: 200%;
 }
 p {
@@ -17,14 +17,14 @@ body {
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: center center;
+}
 
-} 
 .nav {
 	font-weight: bold;
 	text-transform: uppercase;
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 100px;
 	display: inline;	
 }
 #discipline {
@@ -32,7 +32,7 @@ body {
 	text-transform: uppercase;
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 100px;
 	display: inline;	
 }
 
@@ -40,4 +40,5 @@ body {
     color:#242424;
     clear:both;
     text-align:center;
-    padding: 5px; 
+    padding:100px;
+}
