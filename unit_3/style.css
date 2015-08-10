@@ -10,6 +10,9 @@ body {
 } 
 a {
 	display: block;
-	width: 60 px;
-
+	width: 500 px;
+	font-weight: bold;
+	background-color: 
+	text-transform: uppercase;
+	text-align: center;
 }
