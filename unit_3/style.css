@@ -3,21 +3,18 @@ html {
 }
 
 body {
-	background-image: url (images/student_watching_video.jpg);
+	background-image: url(images/student_watching_video.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-
-li {
-	display: inline;	
-}
-
+	background-size: 100% 100%;
 } 
-.navigation_bar {
+.nav {
 	font-weight: bold;
 	text-transform: uppercase;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	display: inline;	
 }
 
 #footer {
