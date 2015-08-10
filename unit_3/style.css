@@ -6,12 +6,12 @@ h2 {
 }
 p {
 	font-size: 100%;
-	text-transform: capitalize;
 }
 #welcome {
 	color:#242424;
 	display: center;
 	font-family: Tahoma;
+	text-transform: capitalize;
 }
 body {
 	background-image: url(images/student_watching_video.jpg);
