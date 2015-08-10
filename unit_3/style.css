@@ -1,7 +1,7 @@
-body { 
-  background-image: url(images/student_watching_video.jpg)
-  background-size: 100% 100%;
-  background-repeat: no-repeat
+body {
+	background-image: url(images/student_watching_video.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
 }
  ul {
  	list-style-type: none;
