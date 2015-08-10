@@ -3,14 +3,14 @@ html{
 }
 body {
 	background-image: url (images/student_watching_video.jpg);
-	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: left center;
 }
  ul {
  	list-style-type: none;
- 	margin: 100 px;
- 	padding: 100 px;
+ 	list-
+ 	margin: 0 px;
+ 	padding: 0 px;
 } 
 a {
 	color: #f3526c;
