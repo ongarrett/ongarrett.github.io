@@ -3,3 +3,8 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat
 }
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+} 
