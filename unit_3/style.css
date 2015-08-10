@@ -5,15 +5,12 @@ body {
 	background-image: url (images/student_watching_video.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
-}
- ul {
- 	list-style-type: none;
- 	margin: 100 px;
- 	padding: 100 px;
 } 
-a {
+.navigation_bar {
 	color: #f3526c;
 	font-weight: bold;
 	text-transform: uppercase;
 	text-align: left;
+	margin: 100 px;
+ 	padding: 100 px;
 }
