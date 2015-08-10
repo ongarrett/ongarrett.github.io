@@ -1,20 +1,27 @@
 html {
 	background-color: #2E94C0;
 }
+
 body {
 	background-image: url (images/student_watching_video.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 
 li {
-	dislay: inline;	
+	display: inline;	
 }
+
 } 
 .navigation_bar {
-	color: #f3526c;
 	font-weight: bold;
 	text-transform: uppercase;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
+
+#footer {
+    color:#242424;
+    clear:both;
+    text-align:center;
+    padding: 1150px; 
