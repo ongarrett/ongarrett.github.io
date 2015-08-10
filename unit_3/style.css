@@ -4,13 +4,14 @@ html{
 body {
 	background-image: url (images/student_watching_video.jpg);
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: 50% 50%;
+	background-attachment: scroll;
+	background-size: cover;
+
 } 
 .navigation_bar {
 	color: #f3526c;
 	font-weight: bold;
 	text-transform: uppercase;
 	text-align: left;
-	margin: 100 px;
- 	padding: 100 px;
 }
