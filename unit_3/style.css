@@ -1,4 +1,4 @@
-html{
+html {
 	background-color: #2E94C0;
 }
 body {
@@ -6,6 +6,9 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 
+li {
+	dislay: inline;	
+}
 } 
 .navigation_bar {
 	color: #f3526c;
