@@ -4,13 +4,12 @@ html{
 body {
 	background-image: url (images/student_watching_video.jpg);
 	background-repeat: no-repeat;
-	background-position: left center;
+	background-position: center center;
 }
  ul {
  	list-style-type: none;
- 	list-
- 	margin: 0 px;
- 	padding: 0 px;
+ 	margin: 100 px;
+ 	padding: 100 px;
 } 
 a {
 	color: #f3526c;
