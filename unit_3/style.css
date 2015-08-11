@@ -36,7 +36,7 @@ body {
 	font-weight: normal;
 	text-transform: capitalize;
 	list-style-type: none;
-	margin: 0;
+	margin: 100px;
 	padding: 100px;
 	display: inline;	
 }
@@ -45,5 +45,5 @@ body {
     color:#242424;
     clear:both;
     text-align:center;
-    padding:1000px;
+    padding:100px;
 }
