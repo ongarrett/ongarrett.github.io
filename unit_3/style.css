@@ -26,13 +26,9 @@ body {
 	background-position: center center;
 }
 li {
-	float: left;
+	display: inline;
 }
 
-a {
-	display: block;
-	width: 500px;
-}
 .nav {
 	font-weight: bold;
 	text-transform: uppercase;
