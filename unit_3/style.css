@@ -16,14 +16,16 @@ body {
 	background-size: cover;
 	background-position: center center;
 }
+ul {
+	display: inline-block;
+}
 
 .nav {
 	font-weight: bold;
 	text-transform: uppercase;
 	list-style-type: none;
 	margin: 0;
-	padding: 100px;
-	display: inline;	
+	padding: 100px;	
 }
 
 #welcome {
