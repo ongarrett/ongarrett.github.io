@@ -1,6 +1,12 @@
+.banner {
+	background-image: url(images/sage_video_logo.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: left;
+}
+
 h1 {
 	font-family: Tahoma;
-	color: #F3526C;
 	text-transform: none;
 	text-align: center;
 	font-size: 300%;
