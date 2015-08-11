@@ -48,6 +48,7 @@ li {
 
 #discipline {
 	display: inline-block;
+	color: #F3526C;
 	font-weight: bold;
 	text-transform: capitalize;
 	list-style-type: none;
