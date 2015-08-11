@@ -33,9 +33,10 @@ li {
 .nav {
 	font-weight: bold;
 	text-transform: uppercase;
+	text-align: center;
 	list-style-type: none;
 	margin: 0;
-	padding: 100px;	
+	padding: 0;	
 }
 
 #welcome {
