@@ -1,7 +1,8 @@
 h1 {
 	font-family: Tahoma;
-	text-transform: uppercase;
-	text-align: center; 
+	color: #F3526C;
+	text-transform: none;
+	text-align: center;
 	font-size: 300%;
 	display: center;
 }
