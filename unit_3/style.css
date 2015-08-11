@@ -43,7 +43,7 @@ li {
 	color:#242424;
 	display: center;
 	font-family: Tahoma;
-	text-transform: capitalize;
+	text-transform: none;
 }
 
 #discipline {
