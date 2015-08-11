@@ -51,12 +51,12 @@ li {
 	font-weight: normal;
 	text-transform: capitalize;
 	list-style-type: none;
-	margin: 100px;
-	padding: 100px;
+	margin: 60px;
+	padding: 60px;
 }
 #footer {
     color:#242424;
     clear:both;
     text-align:center;
-    padding:100px;
+    padding:200px;
 }
