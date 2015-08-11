@@ -27,6 +27,7 @@ body {
 }
 li {
 	display: inline;
+	text-align: center;
 }
 
 .nav {
