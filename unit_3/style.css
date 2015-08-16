@@ -1,22 +1,46 @@
-h1 {
-	font-family: Tahoma;
-	text-transform: none;
-	text-align: center;
-	font-size: 300%;
-	display: center;
-}
-h2 {
+#header {
+	background-color: #E6E6E6;
+	color:#f3526c;
 	font-family: Tahoma;
 	text-transform: uppercase;
 	text-align: center;
-	font-size: 200%;
-	display: center;
+	width: 200px;
+	border: 25px;
+	margin: 25px;
+	padding: 
 }
-p { 
-	font-family: Tahoma;
-	text-transform: capitalize;
+
+#nav {
+	list-style-type: none;
 	text-align: center;
-	font-size: 100%;
+}
+
+#welcome {
+	color:#000000;
+	font-weight: bolder; 
+	font-family: Tahoma;
+	text-align: center;
+}
+
+#discipline {
+	list-style-type: none;
+	text-align: center;
+}
+
+#quicklearn {
+	list-style-type: none;
+	text-align: center;
+}
+
+#footer {
+	background-color: #E6E6E6;
+	color:#f3526c;
+	text-align: center;
+	padding: 50px;
+}
+
+li {
+	display: inline;
 }
 
 body {
@@ -24,40 +48,4 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
-}
-li {
-	display: inline;
-	text-align: center;
-}
-
-.nav {
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-#welcome {
-	color:#242424;
-	display: center;
-	font-family: Tahoma;
-	text-transform: none;
-}
-
-#discipline {
-	display: inline-block;
-	color: #F3526C;
-	font-weight: bold;
-	text-transform: capitalize;
-	list-style-type: none;
-	margin: 60px;
-	padding: 60px;
-}
-#footer {
-    color:#242424;
-    clear:both;
-    text-align:center;
-    padding:200px;
 }
